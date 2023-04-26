@@ -7,3 +7,6 @@ def b_sorter(array):
     return array
 
 
+array_for_sort = [4, 1, 3, 2, 6, 5, 7]
+
+print(b_sorter(array=array_for_sort))
